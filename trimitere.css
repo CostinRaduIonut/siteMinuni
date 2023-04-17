@@ -1,0 +1,18 @@
+﻿body { background-color:black;
+}
+h1{color:white;
+   text-align:center;
+   font-family:Castellar;
+}
+#mod{
+    width:100%;
+    height:100px;
+}
+#table{border="2"; 
+       border-style:outset;
+       border-color:azure; 
+}
+p {
+    color: white;
+    font-family: Georgia;
+}
